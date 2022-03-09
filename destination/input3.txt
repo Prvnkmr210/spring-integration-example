@@ -1,0 +1,3 @@
+Transformed: Tested Spring Integration.
+
+Successfully verified.
